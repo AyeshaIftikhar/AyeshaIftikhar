@@ -19,7 +19,7 @@ Disaster never comes up with prior warning but still, but we can took measures t
 [![Ayesha Iftikharr](https://img.shields.io/badge/Ayesha_Iftikharr-000000?logo=opsgenie&logoColor=ffffff)](https://ayeshaiftikhar.github.io) 
 [![Github](https://img.shields.io/badge/Github-Follow-211F1F?logo=GitHub&logoColor=ffffff)](https://github.com/AyeshaIftikhar/) 
 [![Linkedin](https://img.shields.io/badge/Linkedin-Connect-0077B5?logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/seayeshaiftikhar/)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=Facebook&logoColor=ffffff)](https://www.facebook.com/seayeshaiftikhar/)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=Facebook&logoColor=ffffff)](https://www.facebook.com/seayeshaiftikhar/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-08A0E9?logo=Twitter&logoColor=ffffff)](https://www.twitter.com/seaishaiftikhar/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-DD2A7B?logo=Instagram&logoColor=ffffff)](https://www.instagram.com/seayeshaiftikhar/) 
 [![Youtube](https://img.shields.io/badge/Youtube-Subscribe-FF0000?logo=Youtube&logoColor=ffffff)](https://www.youtube.com/channel/UCUI0fN6xPUT3SfGLfh8B9Lg) 
