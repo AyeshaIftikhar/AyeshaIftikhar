@@ -13,7 +13,11 @@
 [![Google Play Store](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.ayesha.HerAmigo)
 [![Website](https://img.shields.io/badge/Website-211F1F?logo=google-chrome&logoColor=ffffff)](https://ayeshaiftikhar.github.io/her_amigo)
 
-Disaster never comes up with prior warning but still, but we can took measures to prevent them and if unfortunatly something happens then we should know what to do and whom to seek for help. Sometimes, we just need some consultancy to go along with our lives. All these challenges have been covered by __Her Amigo__.
+Disaster never comes up with prior warning but still, but we can took measures to prevent them and if unfortunatly something happens then we should know what to do and whom to seek for help. Sometimes, we just need some consultancy to go along with our lives. All these challenges have been covered by *Her Amigo*.
+
+## Recent Projects ⚡
+- Dark Rose Events [![Website](https://img.shields.io/badge/Website-FF3D00?logo=google-chrome&logoColor=ffffff)](https://ayeshaiftikhar.me/DarkRoseEvents/)[![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/AyeshaIftikhar/DarkRoseEvents) [![Made with Php](https://img.shields.io/badge/Made_with-Flutter-0175C2?logo=flutter&logoColor=ffffff)]()
+
 
 
 # Let's Connect
