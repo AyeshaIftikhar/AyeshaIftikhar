@@ -11,7 +11,7 @@
 ### Her Amigo | Women Safety and Consultancy
 `Emergency Alert System` `Awareness & Consultancy Application` `Flutter`
 [![Google Play Store](https://img.shields.io/badge/Google_Play-C5168D?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.ayesha.HerAmigo)
-[![Website](https://img.shields.io/badge/Website-211F1F?logo=google-chrome&logoColor=ffffff)](https://ayeshaiftikhar.github.io/her_amigo)
+[![Website](https://img.shields.io/badge/Website-211F1F?logo=google-chrome&logoColor=ffffff)](https://www.heramigo.live/)
 
 Disaster never comes up with prior warning but still, but we can took measures to prevent them and if unfortunatly something happens then we should know what to do and whom to seek for help. Sometimes, we just need some consultancy to go along with our lives. All these challenges have been covered by *Her Amigo*.
 
