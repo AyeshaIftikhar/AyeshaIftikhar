@@ -1,11 +1,11 @@
 # Ayesha Iftikhar
-[![](https://img.shields.io/badge/Women_Techmakers-Ambassador-C5168E)]()  [![](https://img.shields.io/badge/Certified_Flutter_Developer-Udemy-C5168D?logo=flutter&logoColor=ffffff)](https://drive.google.com/file/d/12ALfgkxrhcWdfA8dAgVi0cc69fllom6v/view?usp=sharing)
+[![](https://img.shields.io/badge/Women_Techmakers-Ambassador-C5168E?logo=google&logoColor=ffffff)]()  [![](https://img.shields.io/badge/Certified_Flutter_Developer-Udemy-C5168D?logo=flutter&logoColor=ffffff)](https://drive.google.com/file/d/12ALfgkxrhcWdfA8dAgVi0cc69fllom6v/view?usp=sharing) [![Community Leader](https://img.shields.io/badge/Community_Leader_URBAN_WASH-PICIIP-C5168D?logo=opsgenie&logoColor=ffffff)](https://drive.google.com/file/d/1WIsqL6mFxUF_xJEx_m8N6j4yxQQ3N7wK/view?usp=sharing)
 ### Software Engineer
 
 - 😄 Pronouns: `/’AY - YES EH sh aa/`
 - 🎓 COMSATS University Islamabad
 - 🔭 I’m currently working on **Flutter and Data Science**
-- 🌱 I’m currently learning **Machine Learning and Neural Networks and a little bit Graphics Designing** 
+- 🌱 I’m currently learning **Machine Learning and Neural Networks and a little bit Graphics Designing**  
 
 ## Current Project ⚕
 ### Her Amigo | Women Safety and Consultancy
