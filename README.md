@@ -49,9 +49,12 @@
 Disaster never comes up with prior warning but still, but we can took measures to prevent them and if unfortunatly something happens then we should know what to do and whom to seek for help. Sometimes, we just need some consultancy to go along with our lives. All these challenges have been covered by *Her Amigo*.
 
 ## Recent Projects ⚡
+- Love Easy Giving 
+
+[![Android](https://img.shields.io/badge/Under_Review-6B5233?logo=google-play&logoColor=ffffff)]() [![Android](https://img.shields.io/badge/Love_Easy_Giving-General-6B5233?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.github.love_easy_giving) [![Android](https://img.shields.io/badge/Love_Easy_Giving-Individual-6B5233?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.github.loveeasygivingindividual) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-6B5233?logo=flutter&logoColor=ffffff)](https://flutter.dev)
 - Pakistan Live TV 
 
-[![Website](https://img.shields.io/badge/Website-00C853?logo=google-chrome&logoColor=ffffff)](https://pakistanlive.tv) [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=pakistanlive.tv) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-00C853?logo=flutter&logoColor=ffffff)](https://flutter.dev)
+[![Website](https://img.shields.io/badge/Website-00C853?logo=google-chrome&logoColor=ffffff)](https://pakistanlive.tv) [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)]() [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-00C853?logo=flutter&logoColor=ffffff)](https://flutter.dev)
 - Tooth Growth Analysis of Pigs 
 
 [![Website](https://img.shields.io/badge/Website-0175C2?logo=google-chrome&logoColor=ffffff)](https://ayeshaiftikhar.me/ToothGrowthAnalysisofPigs/) [![Source Code](https://img.shields.io/badge/Source_Code-0175C2?logo=github&logoColor=ffffff)](https://github.com/AyeshaIftikhar/ToothGrowthAnalysisofPigs) [![Build Using R](https://img.shields.io/badge/Made_with-R_Language-0175C2?logo=R&logoColor=ffffff)](https://www.r-project.org/about.html)
