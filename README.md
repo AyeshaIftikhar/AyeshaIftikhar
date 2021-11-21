@@ -49,6 +49,16 @@
 Disaster never comes up with prior warning but still, but we can took measures to prevent them and if unfortunatly something happens then we should know what to do and whom to seek for help. Sometimes, we just need some consultancy to go along with our lives. All these challenges have been covered by *Her Amigo*.
 
 ## Recent Projects ⚡
+- Engage App
+
+[![Android](https://img.shields.io/badge/Engage-FFBF00?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-FFBF00?logo=flutter&logoColor=ffffff)](https://flutter.dev)
+
+- Dine Screen
+  - Resturant Panel
+[![Website](https://img.shields.io/badge/Website-FFA500?logo=google-chrome&logoColor=ffffff)](https://dine-screen.web.app/) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-FFA500?logo=flutter&logoColor=ffffff)](https://flutter.dev)
+  - Resturant Menu
+[![Website](https://img.shields.io/badge/Website-FFA500?logo=google-chrome&logoColor=ffffff)](https://dine-screen-menu.web.app) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-FFA500?logo=flutter&logoColor=ffffff)](https://flutter.dev)
+
 - Love Easy Giving 
 
 [![Android](https://img.shields.io/badge/Under_Review-6B5233?logo=google-play&logoColor=ffffff)]() [![Android](https://img.shields.io/badge/Love_Easy_Giving-General-6B5233?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.github.love_easy_giving) [![Android](https://img.shields.io/badge/Love_Easy_Giving-Individual-6B5233?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.github.loveeasygivingindividual) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-6B5233?logo=flutter&logoColor=ffffff)](https://flutter.dev)
