@@ -44,7 +44,7 @@
 `Emergency Alert System` `Awareness & Consultancy Application` `Flutter`
 
 [![Amazon App Store](https://img.shields.io/badge/Amazon-C5168D?logo=amazon&logoColor=ffffff)](https://www.amazon.com/gp/product/B0957L22GP)
-[![Website](https://img.shields.io/badge/Website-C5168D?logo=google-chrome&logoColor=ffffff)](https://www.heramigo.live/) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-C5168D?logo=flutter&logoColor=ffffff)](https://flutter.dev)
+[![Website](https://img.shields.io/badge/Website-C5168D?logo=google-chrome&logoColor=ffffff)](https://her-amigo.web.app/) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-C5168D?logo=flutter&logoColor=ffffff)](https://flutter.dev)
 
 Disaster never comes up with prior warning but still, but we can took measures to prevent them and if unfortunatly something happens then we should know what to do and whom to seek for help. Sometimes, we just need some consultancy to go along with our lives. All these challenges have been covered by *Her Amigo*.
 
