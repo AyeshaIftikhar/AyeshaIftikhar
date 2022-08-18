@@ -78,32 +78,22 @@ Disaster never comes up with prior warning but still, but we can took measures t
 [![Website](https://img.shields.io/badge/Website-0175C2?logo=google-chrome&logoColor=ffffff)](https://authentication-demo-a1eb6.web.app/#/) [![Source Code](https://img.shields.io/badge/Source_Code-0175C2?logo=GitHub&logoColor=ffffff)](https://github.com/AyeshaIftikhar/Flutter-Codes) [![Github](https://img.shields.io/badge/Github-Instructions-0175C2?logo=GitHub&logoColor=ffffff)](https://ayeshaiftikhar.me/Flutter-Codes/) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
 
 
-## Recent Gists ✔
-- FlutterCodes | This gist is about most commonly codes used in applications with flutter. This will include Authentication codes with firebase and other common code snippets.  
-
-[![Made with Flutter](https://img.shields.io/badge/Made_for-Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://gist.github.com/AyeshaIftikhar/14dac69ca4c3b9d126c70d0dd02bea2f)
-
 ## Recent Articles 🧾
-- Deploying a Flutter Web project to GitHub Pages 
 
-[![Deploying on Github](https://img.shields.io/badge/FlutterEvo-Read-0077B5?logo=Medium&logoColor=ffffff)](https://medium.com/flutterevo/deploying-a-flutter-web-project-to-github-pages-ff85de8b401d)
-- Managing Versions of Flutter Projects 
-
-[![Managing Versions](https://img.shields.io/badge/FlutterEvo-Read-0077B5?logo=Medium&logoColor=ffffff)](https://medium.com/flutterevo/managing-versions-of-flutter-projects-965cf373b46)
-- Working with Flutter Commands 
-
-[![Flutter Commands](https://img.shields.io/badge/FlutterEvo-Read-0077B5?logo=Medium&logoColor=ffffff)](https://medium.com/flutterevo/working-with-flutter-commands-76fd653ec15)
-- Getting Started with Flutter
-
-[![Getting Started with flutter](https://img.shields.io/badge/FlutterEvo-Read-0077B5?logo=Medium&logoColor=ffffff)](https://medium.com/flutterevo/getting-started-with-flutter-e6e5aa3725dd)
+[![Getting Started with flutter](https://img.shields.io/badge/Getting_Started_with_Flutter-Read-0077B5?logo=Medium&logoColor=ffffff)](https://medium.com/flutterevo/getting-started-with-flutter-e6e5aa3725dd)
+[![Dart](https://img.shields.io/badge/What_is_Dart-Read-0077B5?logo=Medium&logoColor=ffffff)](https://medium.com/flutter-interview-questions/dart-c0bc494e7a32)
+[![What is Flutter](https://img.shields.io/badge/What_is_Flutter-Read-0077B5?logo=Medium&logoColor=ffffff)](https://medium.com/flutter-interview-questions/what-is-flutter-e111b1eeab99)
+[![Flutter Commands](https://img.shields.io/badge/Working_with_Flutter_Commands-Read-0077B5?logo=Medium&logoColor=ffffff)](https://medium.com/flutterevo/working-with-flutter-commands-76fd653ec15)
+[![Managing Versions](https://img.shields.io/badge/Managing_Versions_of_Flutter_Projects-Read-0077B5?logo=Medium&logoColor=ffffff)](https://medium.com/flutterevo/managing-versions-of-flutter-projects-965cf373b46)
+[![Deploying on Github](https://img.shields.io/badge/Deploying_a_Flutter_Web_project_to_GitHub_Pages-Read-0077B5?logo=Medium&logoColor=ffffff)](https://medium.com/flutterevo/deploying-a-flutter-web-project-to-github-pages-ff85de8b401d)
 
 ## Contributions 💻
 - FlutterCapsule | Flutter Developers Guide  
 
-[![Website](https://img.shields.io/badge/Website-0175C2?logo=google-chrome&logoColor=ffffff)](https://usamasarwar.github.io/fluttercapsule/) [![Source Code](https://img.shields.io/badge/Source_Code-0175C2?logo=GitHub&logoColor=ffffff)](https://github.com/UsamaSarwar/fluttercapsule) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
+[![Website](https://img.shields.io/badge/FlutterCapsule-0175C2?logo=google-chrome&logoColor=ffffff)](https://usamasarwar.github.io/fluttercapsule/) [![Source Code](https://img.shields.io/badge/Source_Code-0175C2?logo=GitHub&logoColor=ffffff)](https://github.com/UsamaSarwar/fluttercapsule) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
 -  ContactUs | CONTACTUS is a flutter package. The most common functionality added in any commercial app is the Developer's contact details!! So this package helps the developers to simply add their details.  
 
-[![Pub package](https://img.shields.io/badge/Package-pub.dev-0175C2?logo=dart&logoColor=ffffff)](https://pub.dev/packages/contactus) [![Source Code](https://img.shields.io/badge/Source_Code-Github-0175C2?logo=GitHub&logoColor=ffffff)](https://github.com/AbhishekDoshi26/contactus) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
+[![Pub package](https://img.shields.io/badge/ContactUs-pub.dev-0175C2?logo=dart&logoColor=ffffff)](https://pub.dev/packages/contactus) [![Source Code](https://img.shields.io/badge/Source_Code-Github-0175C2?logo=GitHub&logoColor=ffffff)](https://github.com/AbhishekDoshi26/contactus) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
 
 
 <!-- # Let's Connect 🤝🏻
