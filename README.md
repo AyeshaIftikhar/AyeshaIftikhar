@@ -16,11 +16,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/seaishaifitikhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayeshaiftikhar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/seayeshaiftikhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayeshaiftikhar" height="30" width="40" /></a>
-<a href="https://web.facebook.com/ayeshaifitikharofficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayeshaiftikhar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/seayeshaifitikhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayeshaifitikhar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCUI0fN6xPUT3SfGLfh8B9Lg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ayeshaifitikhar" height="30" width="40" /></a>
+<a href="https://twitter.com/seaishaifitikhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/seayeshaiftikhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+<a href="https://web.facebook.com/ayeshaifitikharofficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://www.instagram.com/seayeshaifitikhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCUI0fN6xPUT3SfGLfh8B9Lg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -46,52 +46,22 @@
 Disaster never comes up with prior warning but still, but we can took measures to prevent them and if unfortunatly something happens then we should know what to do and whom to seek for help. Sometimes, we just need some consultancy to go along with our lives. All these challenges have been covered by *Her Amigo*.
 
 ## Recent Projects ⚡
-- Engage App
-
-[![Android](https://img.shields.io/badge/Engage-FFBF00?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-FFBF00?logo=flutter&logoColor=ffffff)](https://flutter.dev)
-
-- Dine Screen
-  - Resturant Panel
-[![Website](https://img.shields.io/badge/Website-FFA500?logo=google-chrome&logoColor=ffffff)](https://dine-screen.web.app/) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-FFA500?logo=flutter&logoColor=ffffff)](https://flutter.dev)
-  - Resturant Menu
-[![Website](https://img.shields.io/badge/Website-FFA500?logo=google-chrome&logoColor=ffffff)](https://dine-screen-menu.web.app) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-FFA500?logo=flutter&logoColor=ffffff)](https://flutter.dev)
-
-- Love Easy Giving 
-
-[![Android](https://img.shields.io/badge/Under_Review-6B5233?logo=google-play&logoColor=ffffff)]() [![Android](https://img.shields.io/badge/Love_Easy_Giving-General-6B5233?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.github.love_easy_giving) [![Android](https://img.shields.io/badge/Love_Easy_Giving-Individual-6B5233?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.github.loveeasygivingindividual) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-6B5233?logo=flutter&logoColor=ffffff)](https://flutter.dev)
-- Pakistan Live TV 
-
-[![Website](https://img.shields.io/badge/Website-00C853?logo=google-chrome&logoColor=ffffff)](https://pakistanlive.tv) [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)]() [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-00C853?logo=flutter&logoColor=ffffff)](https://flutter.dev)
-- Tooth Growth Analysis of Pigs 
-
-[![Website](https://img.shields.io/badge/Website-0175C2?logo=google-chrome&logoColor=ffffff)](https://ayeshaiftikhar.me/ToothGrowthAnalysisofPigs/) [![Source Code](https://img.shields.io/badge/Source_Code-0175C2?logo=github&logoColor=ffffff)](https://github.com/AyeshaIftikhar/ToothGrowthAnalysisofPigs) [![Build Using R](https://img.shields.io/badge/Made_with-R_Language-0175C2?logo=R&logoColor=ffffff)](https://www.r-project.org/about.html)
-- Dark Rose Events 
-
-[![Website](https://img.shields.io/badge/Website-C03?logo=google-chrome&logoColor=ffffff)](https://ayeshaiftikhar.me/DarkRoseEvents/) [![Source Code](https://img.shields.io/badge/Source_Code-C03?logo=github&logoColor=ffffff)](https://github.com/AyeshaIftikhar/DarkRoseEvents) [![Made with Php](https://img.shields.io/badge/Made_with-Php-C03?logo=Php&logoColor=ffffff)](https://www.php.net/)
+[![JetLag](https://img.shields.io/badge/JetLag-Flutter-89CFF0?logo=google-play&logoColor=ffffff)](https://drive.google.com/file/d/10gRknrlkNz9IjvFvfwctvEkI8tbPB6-j/view?usp=share_link) [![Engage](https://img.shields.io/badge/Engage-Flutter-FFBF00?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?) [![Dine Screen](https://img.shields.io/badge/Dine_Screen-Flutter-FFA500?logo=google-chrome&logoColor=ffffff)](https://dine-screen.web.app/) [![Dine Scren- Menu](https://img.shields.io/badge/Dine_Screen-Menu-FFA500?logo=google-chrome&logoColor=ffffff)](https://dine-screen-menu.web.app) [![Dine Scren- Reception](https://img.shields.io/badge/Dine_Screen-Reception-FFA500?logo=google-chrome&logoColor=ffffff)](https://dine-screen.web.app/ReceptionMain) [![Dine Scren- Kitchen](https://img.shields.io/badge/Dine_Screen-Kitchen-FFA500?logo=google-chrome&logoColor=ffffff)](https://dine-screen.web.app/KitchenLogin) [![Love Easy Giving](https://img.shields.io/badge/Love_Easy_Giving-General-6B5233?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.github.love_easy_giving) [![Love Easy Giving Individual](https://img.shields.io/badge/Love_Easy_Giving-Individual-6B5233?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.github.loveeasygivingindividual) [![Pakistan Live TV](https://img.shields.io/badge/Pakistan_Live_TV-Flutter-00C853?logo=google-play&logoColor=ffffff)](https://drive.google.com/file/d/1nmdZipzWHWIb7EXw__NpKBWJYdYk-3uH/view?usp=share_link) [![Dark Rose Events](https://img.shields.io/badge/Dark_Rose_Events-PHP-C03?logo=php&logoColor=ffffff)](https://github.com/AyeshaIftikhar/DarkRoseEvents) [![Judicial Provision](https://img.shields.io/badge/Judicial_Provision-Android-00A36C?logo=android&logoColor=ffffff)](https://drive.google.com/file/d/1tMXM1VKCqQ3kRWabq9kS5cvA8lfLRDES/view?usp=share_link)
 
 ## Open Source Projects 👐🏻
-- Flutter Codes | Including Flutter Most Commonly Used Code Modules 
 
-[![Website](https://img.shields.io/badge/Website-0175C2?logo=google-chrome&logoColor=ffffff)](https://authentication-demo-a1eb6.web.app/#/) [![Source Code](https://img.shields.io/badge/Source_Code-0175C2?logo=GitHub&logoColor=ffffff)](https://github.com/AyeshaIftikhar/Flutter-Codes) [![Github](https://img.shields.io/badge/Github-Instructions-0175C2?logo=GitHub&logoColor=ffffff)](https://ayeshaiftikhar.github.io/Flutter-Codes/) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
+[![Website](https://img.shields.io/badge/Flutter_Codes-0175C2?logo=google-chrome&logoColor=ffffff)](https://authentication-demo-a1eb6.web.app/#/) [![Flutter Code](https://img.shields.io/badge/Flutter_Code-0175C2?logo=GitHub&logoColor=ffffff)](https://github.com/AyeshaIftikhar/Flutter-Codes) [![Interview Tasks](https://img.shields.io/badge/Interview_Tasks-Github-0175C2?logo=GitHub&logoColor=ffffff)](https://github.com/AyeshaIftikhar/Interview-Tasks) [![Tooth Growth Analysis of Pigs](https://img.shields.io/badge/Tooth_Growth_Analysis_of_Pigs-Source_Code-0175C2?logo=github&logoColor=ffffff)](https://github.com/AyeshaIftikhar/ToothGrowthAnalysisofPigs) [![Dark Rose Events](https://img.shields.io/badge/Dark_Rose_Events-PHP-C03?logo=github&logoColor=ffffff)](https://github.com/AyeshaIftikhar/DarkRoseEvents) 
 
 
 ## Recent Articles 🧾
 
-[![Getting Started with flutter](https://img.shields.io/badge/Getting_Started_with_Flutter-Read-0077B5?logo=Medium&logoColor=ffffff)](https://medium.com/flutterevo/getting-started-with-flutter-e6e5aa3725dd)
-[![Dart](https://img.shields.io/badge/What_is_Dart-Read-0077B5?logo=Medium&logoColor=ffffff)](https://medium.com/flutter-interview-questions/dart-c0bc494e7a32)
-[![What is Flutter](https://img.shields.io/badge/What_is_Flutter-Read-0077B5?logo=Medium&logoColor=ffffff)](https://medium.com/flutter-interview-questions/what-is-flutter-e111b1eeab99)
-[![Flutter Commands](https://img.shields.io/badge/Working_with_Flutter_Commands-Read-0077B5?logo=Medium&logoColor=ffffff)](https://medium.com/flutterevo/working-with-flutter-commands-76fd653ec15)
-[![Managing Versions](https://img.shields.io/badge/Managing_Versions_of_Flutter_Projects-Read-0077B5?logo=Medium&logoColor=ffffff)](https://medium.com/flutterevo/managing-versions-of-flutter-projects-965cf373b46)
-[![Deploying on Github](https://img.shields.io/badge/Deploying_a_Flutter_Web_project_to_GitHub_Pages-Read-0077B5?logo=Medium&logoColor=ffffff)](https://medium.com/flutterevo/deploying-a-flutter-web-project-to-github-pages-ff85de8b401d)
+[![Firebase Authentication with Flutter](https://img.shields.io/badge/Firebase_Authentication_with_Flutter-Read-0077B5?logo=Medium&logoColor=ffffff)](https://seayeshaiftikhar.medium.com/firebase-authentications-with-flutter-eed17e5b4782)
+[![Firebase Dynamic Links with Flutter](https://img.shields.io/badge/Firebase_Dynamic_Links_with_Flutter-Read-0077B5?logo=Medium&logoColor=ffffff)](https://medium.com/flutterevo/firebase-dynamic-links-with-flutter-ae964b7624de)
+[![Uploading Flutter Projects on Firebase Hosting](https://img.shields.io/badge/Uploading_Flutter_Projects_on_Firebase_Hosting-Read-0077B5?logo=Medium&logoColor=ffffff)](https://medium.com/flutterevo/uploading-flutter-projects-on-firebase-hosting-5d41d469b778)
+[![Read All](https://img.shields.io/badge/Read-all-0077B5?logo=Medium&logoColor=ffffff)](https://seayeshaiftikhar.medium.com/)
 
 ## Contributions 💻
-- FlutterCapsule | Flutter Developers Guide  
-
-[![Website](https://img.shields.io/badge/FlutterCapsule-0175C2?logo=google-chrome&logoColor=ffffff)](https://usamasarwar.github.io/fluttercapsule/) [![Source Code](https://img.shields.io/badge/Source_Code-0175C2?logo=GitHub&logoColor=ffffff)](https://github.com/UsamaSarwar/fluttercapsule) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
--  ContactUs | CONTACTUS is a flutter package. The most common functionality added in any commercial app is the Developer's contact details!! So this package helps the developers to simply add their details.  
-
-[![Pub package](https://img.shields.io/badge/ContactUs-pub.dev-0175C2?logo=dart&logoColor=ffffff)](https://pub.dev/packages/contactus) [![Source Code](https://img.shields.io/badge/Source_Code-Github-0175C2?logo=GitHub&logoColor=ffffff)](https://github.com/AbhishekDoshi26/contactus) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
-
+[![Pub package](https://img.shields.io/badge/ContactUs-pub.dev-0175C2?logo=dart&logoColor=ffffff)](https://pub.dev/packages/contactus) [![Website](https://img.shields.io/badge/FlutterCapsule-0175C2?logo=google-chrome&logoColor=ffffff)](https://usamasarwar.github.io/fluttercapsule/) 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayeshaiftikhar&show_icons=true&locale=en&layout=compact" alt="ayeshaiftikhar" /></p>
 
