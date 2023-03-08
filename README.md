@@ -61,11 +61,13 @@ Disaster never comes up with prior warning but still, but we can took measures t
 [![Read All](https://img.shields.io/badge/Read-all-0077B5?logo=Medium&logoColor=ffffff)](https://seayeshaiftikhar.medium.com/)
 
 ## Contributions 💻
-[![Pub package](https://img.shields.io/badge/ContactUs-pub.dev-0175C2?logo=dart&logoColor=ffffff)](https://pub.dev/packages/contactus) [![Website](https://img.shields.io/badge/FlutterCapsule-0175C2?logo=google-chrome&logoColor=ffffff)](https://usamasarwar.github.io/fluttercapsule/) 
+[![Pub package](https://img.shields.io/badge/ContactUs-pub.dev-0175C2?logo=dart&logoColor=ffffff)](https://pub.dev/packages/contactus) [![Website](https://img.shields.io/badge/FlutterCapsule-Flutter-0175C2?logo=google-chrome&logoColor=ffffff)](https://usamasarwar.github.io/fluttercapsule/) 
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayeshaiftikhar&show_icons=true&locale=en&layout=compact" alt="ayeshaiftikhar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayeshaiftikhar&show_icons=true&locale=en" alt="adilgillani" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ayeshaiftikhar&show_icons=true&locale=en" alt="ayeshaiftikhar"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshaiftikhar&" alt="ayeshaiftikhar" /></p>
 
