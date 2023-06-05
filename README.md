@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **Flutter and Data Science**
 - 🌱 I’m currently learning **Machine Learning and Neural Networks and a little bit Graphics Designing**  
 - 💬 Ask me about **Flutter,Dart.**
-- 📫 How to reach me **(facebook|github|twitter|youtube|instagram)/ +923137128036**
+- 📫 How to reach me **(facebook|github|youtube)/ +923137128036**
 
 
 <h3 align="left">Connect with me:</h3>
