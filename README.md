@@ -5,7 +5,7 @@
 
 
 - 😄 Pronouns: `/’AY - YES EH sh aa/`
-- 🌐 Currently working as a **Flutter Developer** at **_Solution Soul_**
+- 🌐 Currently working as a **Senior Flutter Developer** at **_Symantec Data Solutions_**
 - 🎓 **BS Software Engineering** from **COMSATS University Islamabad.**
 - 💻 Cross Platform Mobile App Developer 
 - 🔭 I’m currently working on **Flutter and Data Science**
