@@ -36,10 +36,18 @@
 </p>
 
 ## Pub Packages ⚕
+### insta_login
+This package is intended to let developers easily integrate instagram integration in Flutter Application. We will be using Instagram Basic Display API. Currently it is supporting the following:
+- Connect to Instagram
+- Get Access Token for a particular user
+- Get userid and username
+
+[![Pub package](https://img.shields.io/badge/Insta_Login-pub.dev-0175C2?logo=dart&logoColor=ffffff)](https://pub.dev/packages/insta_login) [![Insta Login](https://img.shields.io/badge/Insta_Login-github.com-00A36C?logo=github&logoColor=ffffff)](https://github.com/AyeshaIftikhar/insta_login) 
+
 ### xor_encryption
 XOR Encryption is an encryption method used to encrypt data and is hard to crack by brute-force method, i.e generating random encryption keys to match with the correct one. The XOR Encryption algorithm is a very effective yet easy to implement method of symmetric encryption. Due to its effectiveness and simplicity, the XOR Encryption is an extremely common component used in more complex encryption algorithms used nowadays. In cryptography, the simple XOR cipher is a type of additive cipher, an encryption algorithm that operates according to the principles of exclusive or operator.
 
-[![Pub package](https://img.shields.io/badge/Xor_Encryption-pub.dev-0175C2?logo=dart&logoColor=ffffff)](https://pub.dev/packages/xor_encryption) [![Xor Encryption](https://img.shields.io/badge/Xor_Encryption-pub,dev-00A36C?logo=github&logoColor=ffffff)](https://github.com/AyeshaIftikhar/xor_cipher) 
+[![Pub package](https://img.shields.io/badge/Xor_Encryption-pub.dev-0175C2?logo=dart&logoColor=ffffff)](https://pub.dev/packages/xor_encryption) [![Xor Encryption](https://img.shields.io/badge/Xor_Encryption-github.com-00A36C?logo=github&logoColor=ffffff)](https://github.com/AyeshaIftikhar/xor_cipher) 
 
 
 ## Current Project ⚕
