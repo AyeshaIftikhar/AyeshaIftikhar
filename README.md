@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Ayesha Iftikhar, a Professional Software Engineer and Flutter Developer.
 [![Google Cloud Skill Boost](https://img.shields.io/badge/Google_Cloud-Skill_Boost-C5168E?logo=google&logoColor=ffffff)](https://www.cloudskillsboost.google/public_profiles/75fcda1b-b147-4281-8bdb-64f961c35da8) [![Google Dev Library Author](https://img.shields.io/badge/Google_Dev_Library-Author-C5168E?logo=google&logoColor=ffffff)](https://devlibrary.withgoogle.com/authors/ayeshaiftikhar)
-[![insta_login-creator](https://img.shields.io/badge/insta_login-Creator-C5168D?logo=github&logoColor=ffffff)](https://pub.dev/packages/insta_login) [![xor_encryption-creator](https://img.shields.io/badge/xor_encryption-Creator-C5168D?logo=github&logoColor=ffffff)](https://pub.dev/packages/xor_encryption)
+[![aishayy](https://img.shields.io/badge/aishayy-pub.dev-C5168D?logo=github&logoColor=ffffff)](https://pub.dev/publishers/aishayy.com/packages) 
 [![](https://komarev.com/ghpvc/?username=ayeshaiftikhar&label=Profile%20views&color=C5168E&style=flat)](https://g.dev/ayeshaiftikhar) [![](https://img.shields.io/badge/Google_Developer-Profile-C5168E?logo=google&logoColor=ffffff)](https://g.dev/ayeshaiftikhar) [![](https://img.shields.io/badge/Google_Dev_Library-Author-C5168E?logo=google&logoColor=ffffff)](https://devlibrary.withgoogle.com/authors/ayeshaiftikhar) [![](https://img.shields.io/badge/Women_Techmakers-Ambassador-C5168E?logo=google&logoColor=ffffff)]() [![](https://img.shields.io/badge/GitKraken-Ambassador-C5168E?logo=gitkraken&logoColor=ffffff)]() [![](https://img.shields.io/badge/Expert_Flutter_Developer-2ByteCode-C5168E?logo=google&logoColor=ffffff)](https://drive.google.com/file/d/10jJWiDmXsw9JlDvAsjff_aJ_6DWwZSfx/view) [![](https://img.shields.io/badge/Certified_Flutter_Developer-Udemy-C5168D?logo=flutter&logoColor=ffffff)](https://drive.google.com/file/d/12ALfgkxrhcWdfA8dAgVi0cc69fllom6v/view?usp=sharing) [![Community Leader](https://img.shields.io/badge/Community_Leader_URBAN_WASH-PICIIP-C5168D?logo=opsgenie&logoColor=ffffff)](https://drive.google.com/file/d/1WIsqL6mFxUF_xJEx_m8N6j4yxQQ3N7wK/view?usp=sharing) [![contactus-contributor](https://img.shields.io/badge/contactus-Contributor-C5168D?logo=github&logoColor=ffffff)](https://github.com/AbhishekDoshi26/contactus/graphs/contributors)
 [![Debug the Error](https://img.shields.io/badge/Debug_the_Error-Air_University-C5168D?logo=D&logoColor=ffffff)](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:622b52f8-ddb1-4abe-bc3c-dc6d4d3fa843) [![Android Developer](https://img.shields.io/badge/Android_Developer-PNY_Traings-C5168D?logo=android&logoColor=ffffff)](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:b0da3a29-f16b-434c-bee2-41f098924e0e)
 
@@ -23,7 +23,8 @@
 <a href="https://web.facebook.com/ayeshaifitikharofficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCUI0fN6xPUT3SfGLfh8B9Lg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube" height="30" width="40" /></a>
 <a href="https://whatsapp.com/channel/0029VaCZPbjGJP8EQY19Xz1v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Whatsapp" height="30" width="40" /></a>
-</p>
+<a href="https://www.instagram.com/aishayyy____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -38,18 +39,7 @@
 </p>
 
 ## Pub Packages ⚕
-### insta_login
-This package is intended to let developers easily integrate instagram integration in Flutter Application. We will be using Instagram Basic Display API. Currently it is supporting the following:
-- Connect to Instagram
-- Get Access Token for a particular user
-- Get userid and username
-
-[![Pub package](https://img.shields.io/badge/Insta_Login-pub.dev-0175C2?logo=dart&logoColor=ffffff)](https://pub.dev/packages/insta_login) [![Insta Login](https://img.shields.io/badge/Insta_Login-github.com-00A36C?logo=github&logoColor=ffffff)](https://github.com/AyeshaIftikhar/insta_login) 
-
-### xor_encryption
-XOR Encryption is an encryption method used to encrypt data and is hard to crack by brute-force method, i.e generating random encryption keys to match with the correct one. The XOR Encryption algorithm is a very effective yet easy to implement method of symmetric encryption. Due to its effectiveness and simplicity, the XOR Encryption is an extremely common component used in more complex encryption algorithms used nowadays. In cryptography, the simple XOR cipher is a type of additive cipher, an encryption algorithm that operates according to the principles of exclusive or operator.
-
-[![Pub package](https://img.shields.io/badge/Xor_Encryption-pub.dev-0175C2?logo=dart&logoColor=ffffff)](https://pub.dev/packages/xor_encryption) [![Xor Encryption](https://img.shields.io/badge/Xor_Encryption-github.com-00A36C?logo=github&logoColor=ffffff)](https://github.com/AyeshaIftikhar/xor_cipher) 
+[![Pub package](https://img.shields.io/badge/Insta_Login-pub.dev-0175C2?logo=dart&logoColor=ffffff)](https://pub.dev/packages/insta_login) [![Pub package](https://img.shields.io/badge/XoR_Encryption-pub.dev-0175C2?logo=dart&logoColor=ffffff)](https://pub.dev/packages/xor_encryption) [![Pub package](https://img.shields.io/badge/Calendar_CC-pub.dev-0175C2?logo=dart&logoColor=ffffff)](https://pub.dev/packages/calendar_cc) [![Pub package](https://img.shields.io/badge/AS_Instapicker-pub.dev-0175C2?logo=dart&logoColor=ffffff)](https://pub.dev/packages/as_instapicker) [![Pub package](https://img.shields.io/badge/Instacrop-pub.dev-0175C2?logo=dart&logoColor=ffffff)](https://pub.dev/packages/instacrop)
 
 
 ## Current Project ⚕
