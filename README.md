@@ -43,16 +43,32 @@
 
 
 ## Current Project ⚕
-### Her Amigo | Women Safety and Consultancy
-`Emergency Alert System` `Awareness & Consultancy Application` `Flutter`
+### Debug Your Mind
+🧠 Code Better. Stress Less. Debug Your Mind.
 
-[![Amazon App Store](https://img.shields.io/badge/Amazon-C5168D?logo=amazon&logoColor=ffffff)](https://www.amazon.com/gp/product/B0957L22GP)
-[![Website](https://img.shields.io/badge/Website-C5168D?logo=google-chrome&logoColor=ffffff)](https://her-amigo.web.app/) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-C5168D?logo=flutter&logoColor=ffffff)](https://flutter.dev)
+[![Debug Your Mind](https://img.shields.io/badge/Get_Early_Access-1E1E1E?logo=google-play&logoColor=ffffff)](https://forms.gle/2xibGn9RiwMQcUk28) [![Debug Your Mind](https://img.shields.io/badge/Google_Play-1E1E1E?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.aishayy.dym)
+[![Website](https://img.shields.io/badge/Website-1E1E1E?logo=google-chrome&logoColor=ffffff)](https://debug-your-mind.web.app/) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-C5168D?logo=flutter&logoColor=ffffff)](https://flutter.dev)
 
-Disaster never comes up with prior warning but still, but we can took measures to prevent them and if unfortunatly something happens then we should know what to do and whom to seek for help. Sometimes, we just need some consultancy to go along with our lives. All these challenges have been covered by *Her Amigo*.
+Are you a developer struggling with burnout, stress, or overwhelming coding challenges? Debug Your Mind is your personal mental wellness companion, designed to help programmers decompress, reflect, and stay motivated while navigating the fast-paced world of software development.
 
 ## Recent Projects ⚡
-[![Ask AI](https://img.shields.io/badge/Ask_AI-Flutter-42cbf5?logo=google-play&logoColor=ffffff)](https://youtu.be/uanEhadiEe4)  [![Sprout](https://img.shields.io/badge/Sprout-Flutter-90f542?logo=google-play&logoColor=ffffff)](https://youtu.be/JEPp4qPDKlo)  [![Mind Buddy](https://img.shields.io/badge/Mind_Buddy-Flutter-89CFF0?logo=google-play&logoColor=ffffff)](https://youtu.be/g2aqzrVr8vo) [![Signal Clone](https://img.shields.io/badge/Signal_Clone-Flutter-4287f5?logo=google-play&logoColor=ffffff)](https://youtu.be/VXXKL44V__U)  [![JetLag](https://img.shields.io/badge/JetLag-Flutter-89CFF0?logo=google-play&logoColor=ffffff)](https://drive.google.com/file/d/10gRknrlkNz9IjvFvfwctvEkI8tbPB6-j/view?usp=share_link) [![Engage](https://img.shields.io/badge/Engage-Flutter-FFBF00?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?) [![Dine Screen](https://img.shields.io/badge/Dine_Screen-Flutter-FFA500?logo=google-chrome&logoColor=ffffff)](https://dine-screen.web.app/) [![Dine Scren- Menu](https://img.shields.io/badge/Dine_Screen-Menu-FFA500?logo=google-chrome&logoColor=ffffff)](https://dine-screen-menu.web.app) [![Dine Scren- Reception](https://img.shields.io/badge/Dine_Screen-Reception-FFA500?logo=google-chrome&logoColor=ffffff)](https://dine-screen.web.app/ReceptionMain) [![Dine Scren- Kitchen](https://img.shields.io/badge/Dine_Screen-Kitchen-FFA500?logo=google-chrome&logoColor=ffffff)](https://dine-screen.web.app/KitchenLogin) [![Love Easy Giving](https://img.shields.io/badge/Love_Easy_Giving-General-6B5233?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.github.love_easy_giving) [![Love Easy Giving Individual](https://img.shields.io/badge/Love_Easy_Giving-Individual-6B5233?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.github.loveeasygivingindividual) [![Pakistan Live TV](https://img.shields.io/badge/Pakistan_Live_TV-Flutter-00C853?logo=google-play&logoColor=ffffff)](https://drive.google.com/file/d/1nmdZipzWHWIb7EXw__NpKBWJYdYk-3uH/view?usp=share_link) [![Dark Rose Events](https://img.shields.io/badge/Dark_Rose_Events-PHP-C03?logo=php&logoColor=ffffff)](https://github.com/AyeshaIftikhar/DarkRoseEvents) [![Judicial Provision](https://img.shields.io/badge/Judicial_Provision-Android-00A36C?logo=android&logoColor=ffffff)](https://drive.google.com/file/d/1tMXM1VKCqQ3kRWabq9kS5cvA8lfLRDES/view?usp=share_link)
+[![Ask AI](https://img.shields.io/badge/Ask_AI-Flutter-42cbf5?logo=google-play&logoColor=ffffff)](https://youtu.be/uanEhadiEe4)  
+[![Sprout](https://img.shields.io/badge/Sprout-Flutter-90f542?logo=google-play&logoColor=ffffff)](https://youtu.be/JEPp4qPDKlo)  
+[![Mind Buddy](https://img.shields.io/badge/Mind_Buddy-Flutter-89CFF0?logo=google-play&logoColor=ffffff)](https://youtu.be/g2aqzrVr8vo) 
+[![Signal Clone](https://img.shields.io/badge/Signal_Clone-Flutter-4287f5?logo=google-play&logoColor=ffffff)](https://youtu.be/VXXKL44V__U)  
+[![PhysioSite](https://img.shields.io/badge/PhysioSite-Flutter-DAF7A6?logo=google-play&logoColor=ffffff)](https://apps.apple.com/us/app/physiosite/id1663719876)  
+[![JetLag](https://img.shields.io/badge/JetLag-Flutter-89CFF0?logo=google-play&logoColor=ffffff)](https://drive.google.com/file/d/10gRknrlkNz9IjvFvfwctvEkI8tbPB6-j/view?usp=share_link) 
+[![Engage](https://img.shields.io/badge/Engage-Flutter-FFBF00?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?) 
+[![Dine Screen](https://img.shields.io/badge/Dine_Screen-Flutter-FFA500?logo=google-chrome&logoColor=ffffff)](https://dine-screen.web.app/) 
+[![Dine Scren- Menu](https://img.shields.io/badge/Dine_Screen-Menu-FFA500?logo=google-chrome&logoColor=ffffff)](https://dine-screen-menu.web.app) 
+[![Dine Scren- Reception](https://img.shields.io/badge/Dine_Screen-Reception-FFA500?logo=google-chrome&logoColor=ffffff)](https://dine-screen.web.app/ReceptionMain) 
+[![Dine Scren- Kitchen](https://img.shields.io/badge/Dine_Screen-Kitchen-FFA500?logo=google-chrome&logoColor=ffffff)](https://dine-screen.web.app/KitchenLogin) 
+[![Her Amigo](https://img.shields.io/badge/Her_Amigo-Flutter-C5168D?logo=google-play&logoColor=ffffff)](https://youtu.be/Buyv4U24oVk) 
+[![Love Easy Giving](https://img.shields.io/badge/Love_Easy_Giving-General-6B5233?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.github.love_easy_giving) 
+[![Love Easy Giving Individual](https://img.shields.io/badge/Love_Easy_Giving-Individual-6B5233?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.github.loveeasygivingindividual) 
+[![Pakistan Live TV](https://img.shields.io/badge/Pakistan_Live_TV-Flutter-00C853?logo=google-play&logoColor=ffffff)](https://drive.google.com/file/d/1nmdZipzWHWIb7EXw__NpKBWJYdYk-3uH/view?usp=share_link) 
+[![Dark Rose Events](https://img.shields.io/badge/Dark_Rose_Events-PHP-C03?logo=php&logoColor=ffffff)](https://github.com/AyeshaIftikhar/DarkRoseEvents) 
+[![Judicial Provision](https://img.shields.io/badge/Judicial_Provision-Android-00A36C?logo=android&logoColor=ffffff)](https://drive.google.com/file/d/1tMXM1VKCqQ3kRWabq9kS5cvA8lfLRDES/view?usp=share_link)
 
 ## Open Source Projects 👐🏻
 [![AI Implementation with Flutter](https://img.shields.io/badge/AI_Implementation_Flutter-Source_Codes-0175C2?logo=Flutter&logoColor=ffffff)](https://github.com/AyeshaIftikhar/flutter_ai)
