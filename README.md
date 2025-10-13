@@ -46,9 +46,9 @@
 📦 5+ Published Packages
 ✍️ 20+ Technical Articles
 🎤 10+ Conference Talks
-👥 1000+ Developers Mentored
-🌟 5000+ GitHub Stars
 ```
+<!-- <p>👥 1000+ Developers Mentored
+🌟 5000+ GitHub Stars</p> -->
 
 ---
 
