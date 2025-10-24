@@ -115,7 +115,7 @@ Debug Your Mind addresses the unique challenges developers face - from burnout a
 
 <div align="center">
 
-[![Insta Login](https://img.shields.io/badge/Insta_Login-pub.dev-0175C2?logo=dart&logoColor=ffffff&style=for-the-badge)](https://pub.dev/packages/insta_login) [![XoR Encryption](https://img.shields.io/badge/XoR_Encryption-pub.dev-0175C2?logo=dart&logoColor=ffffff&style=for-the-badge)](https://pub.dev/packages/xor_encryption) [![Calendar CC](https://img.shields.io/badge/Calendar_CC-pub.dev-0175C2?logo=dart&logoColor=ffffff&style=for-the-badge)](https://pub.dev/packages/calendar_cc)
+[![Insta Login](https://img.shields.io/badge/Flutter_Asset_Cleaner-pub.dev-0175C2?logo=dart&logoColor=ffffff&style=for-the-badge)](https://pub.dev/packages/flutter_asset_cleaner) [![XoR Encryption](https://img.shields.io/badge/XoR_Encryption-pub.dev-0175C2?logo=dart&logoColor=ffffff&style=for-the-badge)](https://pub.dev/packages/xor_encryption) [![Calendar CC](https://img.shields.io/badge/Calendar_CC-pub.dev-0175C2?logo=dart&logoColor=ffffff&style=for-the-badge)](https://pub.dev/packages/calendar_cc)
 
 [![AS Instapicker](https://img.shields.io/badge/AS_Instapicker-pub.dev-0175C2?logo=dart&logoColor=ffffff&style=for-the-badge)](https://pub.dev/packages/as_instapicker) [![Instacrop](https://img.shields.io/badge/Instacrop-pub.dev-0175C2?logo=dart&logoColor=ffffff&style=for-the-badge)](https://pub.dev/packages/instacrop)
 
