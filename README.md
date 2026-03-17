@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=C5168E&center=true&vCenter=true&width=650&lines=Flutter+%26+Dart+Expert+%F0%9F%9A%80;Senior+Mobile+%26+Software+Engineer+%F0%9F%93%B1;AI+Driven+Product+Development+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%93%A6;Tech+Community+Leader+%F0%9F%8C%8D;Women+Techmakers+Ambassador+%F0%9F%8F%86;Building+the+Future%2C+One+App+at+a+Time+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C5168E&center=true&vCenter=true&width=650&lines=Flutter+%26+Dart+Expert+%F0%9F%9A%80;Senior+Mobile+%26+Software+Engineer+%F0%9F%93%B1;AI+Driven+Product+Development+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%93%A6;Tech+Community+Leader+%F0%9F%8C%8D;Women+Techmakers+Ambassador+%F0%9F%8F%86;Building+the+Future%2C+One+App+at+a+Time+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
@@ -399,13 +399,13 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshaiftikhar&hide_border=true&theme=radical&stroke=C5168E&ring=C5168E&fire=C5168E" alt="Ayesha's GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=ayeshaiftikhar&hide_border=true&theme=radical&stroke=C5168E&ring=C5168E&fire=C5168E" alt="Ayesha's GitHub Streak"/>
 
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=ayeshaiftikhar&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies"/>
 
 ### 📈 Contribution Graph
-<img src="https://activity-graph.herokuapp.com/graph?username=ayeshaiftikhar&bg_color=0d1117&color=C5168E&line=C5168E&point=FFFFFF&hide_border=true" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayeshaiftikhar&bg_color=0d1117&color=C5168E&line=C5168E&point=FFFFFF&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
