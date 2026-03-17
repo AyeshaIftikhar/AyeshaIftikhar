@@ -1,13 +1,19 @@
-<div align="center">
-
-# 👋 Hi, I'm Ayesha Iftikhar
-### 🚀 Senior Flutter Developer | 📱 Cross-Platform Mobile Expert | 🎯 Women Techmakers Ambassador
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C5168E&center=true&vCenter=true&width=435&lines=Flutter+%26+Dart+Expert;Open+Source+Contributor;Tech+Community+Leader;Mobile+App+Innovator" alt="Typing SVG" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayesha%20Iftikhar&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Senior%20Flutter%20Developer%20%7C%20Women%20Techmakers%20Ambassador&descAlignY=55&descSize=16" width="100%"/>
 
 <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=C5168E&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Expert+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%93%A6;Tech+Community+Leader+%F0%9F%8C%8D;Mobile+App+Innovator+%F0%9F%93%B1;Women+Techmakers+Ambassador+%F0%9F%8F%86;Building+the+Future%2C+One+App+at+a+Time+%E2%9C%A8" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seayeshaiftikhar/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCUI0fN6xPUT3SfGLfh8B9Lg)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/aishayyy____)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/ayeshaifitikharofficial/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://seayeshaiftikhar.medium.com/)
+[![pub.dev](https://img.shields.io/badge/pub.dev-0175C2?style=flat-square&logo=dart&logoColor=white)](https://pub.dev/publishers/aishayy.com/packages)
+
+<br/>
 
 [![Google Cloud Skill Boost](https://img.shields.io/badge/Google_Cloud-Skill_Boost-C5168E?logo=google&logoColor=ffffff&style=for-the-badge)](https://www.cloudskillsboost.google/public_profiles/75fcda1b-b147-4281-8bdb-64f961c35da8) [![Google Dev Library Author](https://img.shields.io/badge/Google_Dev_Library-Author-C5168E?logo=google&logoColor=ffffff&style=for-the-badge)](https://devlibrary.withgoogle.com/authors/ayeshaiftikhar) [![aishayy](https://img.shields.io/badge/aishayy-pub.dev-C5168D?logo=dart&logoColor=ffffff&style=for-the-badge)](https://pub.dev/publishers/aishayy.com/packages)
 
@@ -21,32 +27,46 @@
 
 ## 💫 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 > *"Crafting beautiful, scalable mobile experiences with Flutter while mentoring the next generation of developers"*
 
-**🎓 Education:** BS Software Engineering from COMSATS University Islamabad  
-**🌐 Current Role:** Senior Flutter Developer at **PureMatrix Data Solutions**  
-**🏆 Achievements:** Published 5+ pub.dev packages, Women Techmakers Ambassador  
-**📱 Expertise:** Cross-Platform Mobile Development, Flutter, Dart, Firebase  
-**🧠 Currently Learning:** Machine Learning, Neural Networks, Graphics Design  
-**😄 Pronouns:** `/'AY - YES EH sh aa/`
+| Category | Details |
+|---|---|
+| 🎓 **Education** | BS Software Engineering — COMSATS University Islamabad |
+| 🌐 **Current Role** | Senior Flutter Developer at **PureMatrix Data Solutions** |
+| 🏆 **Achievements** | Published 5+ pub.dev packages, Women Techmakers Ambassador |
+| 📱 **Expertise** | Cross-Platform Mobile, Flutter, Dart, Firebase |
+| 🧠 **Learning** | Machine Learning, Neural Networks, Graphics Design |
+| 😄 **Pronouns** | `/'AY - YES EH sh aa/` |
+
+<br clear="right"/>
 
 ### 🌟 What I Do
-- 🚀 **Mobile Development:** Build high-performance Flutter applications
-- 📦 **Open Source:** Create and maintain packages on pub.dev
-- ✍️ **Content Creation:** Write technical articles and tutorials
-- 🎤 **Speaking:** Present at tech conferences and communities
-- 🤝 **Mentoring:** Guide aspiring developers in their journey
-- 🌍 **Community:** Lead tech initiatives and ambassador programs
+
+<table>
+<tr>
+<td>🚀 <b>Mobile Development</b><br/>Build high-performance Flutter apps</td>
+<td>📦 <b>Open Source</b><br/>Create & maintain pub.dev packages</td>
+<td>✍️ <b>Content Creation</b><br/>Write technical articles & tutorials</td>
+</tr>
+<tr>
+<td>🎤 <b>Speaking</b><br/>Present at tech conferences & communities</td>
+<td>🤝 <b>Mentoring</b><br/>Guide aspiring developers in their journey</td>
+<td>🌍 <b>Community</b><br/>Lead tech initiatives & ambassador programs</td>
+</tr>
+</table>
 
 ### 📊 Professional Highlights
-```
-📱 50+ Mobile Apps Developed
-📦 5+ Published Packages
-✍️ 20+ Technical Articles
-🎤 10+ Conference Talks
-```
+
+<div align="center">
+
+| 📱 Mobile Apps | 📦 Packages | ✍️ Articles | 🎤 Conference Talks |
+|:-:|:-:|:-:|:-:|
+| **50+** | **5+** | **20+** | **10+** |
+
+</div>
+
 <!-- <p>👥 1000+ Developers Mentored
 🌟 5000+ GitHub Stars</p> -->
 
@@ -82,29 +102,33 @@
 
 ---
 
-## 🔧 Most Recent Project: PDF Perfect
+## 🆕 Most Recent Project: PDF Perfect
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=60%" />
 
 ### 📄 *"Compress, Merge, Split & Edit PDFs — Instantly in Your Browser"*
 
-**A lightweight, privacy-first PDF toolbox with zero uploads and no account required**
+[![PDF Perfect](https://img.shields.io/badge/🌐_Visit_PDF_Perfect-pdfperfect.org-C5168E?style=for-the-badge&logoColor=ffffff)](https://pdfperfect.org/)
+[![Privacy First](https://img.shields.io/badge/🔒_Privacy-First-2ecc71?style=flat-square)]()
+[![No Account](https://img.shields.io/badge/👤_No_Account-Required-3498db?style=flat-square)]()
+[![No Upload](https://img.shields.io/badge/☁️_No_Upload-Needed-9b59b6?style=flat-square)]()
 
 </div>
 
-PDF Perfect is a lightweight, privacy-first PDF toolbox that helps you compress, merge, split, and edit PDF documents instantly — all in your browser. No uploads, no accounts, and no limits.
-
-**Key Features:**
-- 🗜️ **Compress PDF:** Reduce file size while preserving quality. Ideal for emailing large documents and saving storage.
-- 📎 **Merge PDFs:** Combine multiple files into a single document with drag-and-drop reorder support.
-- ✂️ **Split PDFs:** Extract pages or split large files into smaller, shareable documents.
-- ✏️ **Edit PDFs:** Add text, draw shapes, rotate or remove pages without installing software.
-- 🔒 **Local Processing:** All operations run in the browser — your files never leave your device.
-- 📁 **Large File Support:** Process files up to 1GB depending on device capability.
+> 💡 **PDF Perfect** is a lightweight, privacy-first PDF toolbox that helps you compress, merge, split, and edit PDF documents instantly — all in your browser. No uploads, no accounts, and no limits.
 
 <div align="center">
 
-[![PDF Perfect](https://img.shields.io/badge/Visit-PDF_Perfect-C5168E?logo=google-chrome&logoColor=ffffff&style=for-the-badge)](https://pdfperfect.org/)
+| Feature | Description |
+|:---:|:---|
+| 🗜️ **Compress PDF** | Reduce file size while preserving quality — ideal for emailing large documents and saving storage |
+| 📎 **Merge PDFs** | Combine multiple files into a single document with drag-and-drop reorder support |
+| ✂️ **Split PDFs** | Extract pages or split large files into smaller, shareable documents |
+| ✏️ **Edit PDFs** | Add text, draw shapes, rotate or remove pages — no software installation needed |
+| 🔒 **Local Processing** | All operations run in the browser — your files **never** leave your device |
+| 📁 **Large File Support** | Process files up to **1GB** depending on device capability |
 
 </div>
 
@@ -114,6 +138,8 @@ PDF Perfect is a lightweight, privacy-first PDF toolbox that helps you compress,
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=60%" />
+
 ### 🧠 *"Code Better. Stress Less. Debug Your Mind."*
 
 <img src="https://img.shields.io/badge/Available_on-Google_Play-1E1E1E?style=for-the-badge&logo=google-play&logoColor=ffffff" alt="Google Play">
@@ -122,18 +148,22 @@ PDF Perfect is a lightweight, privacy-first PDF toolbox that helps you compress,
 
 </div>
 
-Debug Your Mind addresses the unique challenges developers face - from burnout and stress to overwhelming coding challenges. This app provides personalized mental wellness tools, meditation guides, and productivity techniques tailored for the tech community.
-
-**Key Features:**
-- 🧘‍♀️ Developer-focused meditation sessions
-- 📊 Stress level tracking and analytics
-- 🎯 Productivity and focus enhancement tools
-- 💬 Community support for developers
-- 🎨 Beautiful, intuitive Flutter UI
+> 🧘 **Debug Your Mind** addresses the unique challenges developers face — from burnout and stress to overwhelming coding challenges. Personalized mental wellness tools, meditation guides, and productivity techniques tailored for the tech community.
 
 <div align="center">
 
-[![Debug Your Mind](https://img.shields.io/badge/Get_Early_Access-1E1E1E?logo=google-play&logoColor=ffffff&style=for-the-badge)](https://forms.gle/2xibGn9RiwMQcUk28) [![Debug Your Mind](https://img.shields.io/badge/Google_Play-1E1E1E?logo=google-play&logoColor=ffffff&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.aishayy.dym) [![Website](https://img.shields.io/badge/Website-1E1E1E?logo=google-chrome&logoColor=ffffff&style=for-the-badge)](https://debug-your-mind.web.app/)
+| Feature | Description |
+|:---:|:---|
+| 🧘‍♀️ **Meditation** | Developer-focused meditation sessions |
+| 📊 **Analytics** | Stress level tracking & analytics |
+| 🎯 **Productivity** | Focus enhancement tools & techniques |
+| 💬 **Community** | Community support for developers |
+| 🎨 **Flutter UI** | Beautiful, intuitive Flutter UI |
+| 🔔 **Reminders** | Smart reminders & daily check-ins |
+
+<br/>
+
+[![Get Early Access](https://img.shields.io/badge/Get_Early_Access-C5168E?logo=google-play&logoColor=ffffff&style=for-the-badge)](https://forms.gle/2xibGn9RiwMQcUk28) [![Google Play](https://img.shields.io/badge/Google_Play-1E1E1E?logo=google-play&logoColor=ffffff&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.aishayy.dym) [![Website](https://img.shields.io/badge/Website-0d1117?logo=google-chrome&logoColor=ffffff&style=for-the-badge)](https://debug-your-mind.web.app/)
 
 </div>
 
@@ -143,50 +173,70 @@ Debug Your Mind addresses the unique challenges developers face - from burnout a
 
 <div align="center">
 
-[![Insta Login](https://img.shields.io/badge/Flutter_Asset_Cleaner-pub.dev-0175C2?logo=dart&logoColor=ffffff&style=for-the-badge)](https://pub.dev/packages/flutter_asset_cleaner) [![XoR Encryption](https://img.shields.io/badge/XoR_Encryption-pub.dev-0175C2?logo=dart&logoColor=ffffff&style=for-the-badge)](https://pub.dev/packages/xor_encryption) [![Calendar CC](https://img.shields.io/badge/Calendar_CC-pub.dev-0175C2?logo=dart&logoColor=ffffff&style=for-the-badge)](https://pub.dev/packages/calendar_cc)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=60%" />
 
-[![AS Instapicker](https://img.shields.io/badge/AS_Instapicker-pub.dev-0175C2?logo=dart&logoColor=ffffff&style=for-the-badge)](https://pub.dev/packages/as_instapicker) [![Instacrop](https://img.shields.io/badge/Instacrop-pub.dev-0175C2?logo=dart&logoColor=ffffff&style=for-the-badge)](https://pub.dev/packages/instacrop)
+| Package | Description |
+|:---:|:---|
+| [![Flutter Asset Cleaner](https://img.shields.io/badge/Flutter_Asset_Cleaner-pub.dev-0175C2?logo=dart&logoColor=ffffff&style=flat-square)](https://pub.dev/packages/flutter_asset_cleaner) | Clean up unused assets in your Flutter project |
+| [![XoR Encryption](https://img.shields.io/badge/XoR_Encryption-pub.dev-0175C2?logo=dart&logoColor=ffffff&style=flat-square)](https://pub.dev/packages/xor_encryption) | Lightweight XOR-based encryption for Flutter |
+| [![Calendar CC](https://img.shields.io/badge/Calendar_CC-pub.dev-0175C2?logo=dart&logoColor=ffffff&style=flat-square)](https://pub.dev/packages/calendar_cc) | Customizable calendar widget for Flutter apps |
+| [![AS Instapicker](https://img.shields.io/badge/AS_Instapicker-pub.dev-0175C2?logo=dart&logoColor=ffffff&style=flat-square)](https://pub.dev/packages/as_instapicker) | Instagram-style image picker for Flutter |
+| [![Instacrop](https://img.shields.io/badge/Instacrop-pub.dev-0175C2?logo=dart&logoColor=ffffff&style=flat-square)](https://pub.dev/packages/instacrop) | Instagram-style image cropping widget |
 
 </div>
-
-Each package solves real-world problems faced by Flutter developers, with comprehensive documentation, examples, and active maintenance.
 
 ---
 
 ## 🚀 Recent Projects Portfolio
 
 <details>
-<summary><b>🔥 Click to explore my project ecosystem</b></summary>
+<summary><b>🔥 Click to explore my full project ecosystem</b></summary>
+
+<br/>
 
 ### 🔧 Web Tools
-[![PDF Perfect](https://img.shields.io/badge/PDF_Perfect-Privacy--First_PDF_Toolbox-C5168E?style=for-the-badge&logo=google-chrome&logoColor=ffffff)](https://pdfperfect.org/)
+| Project | Description |
+|---|---|
+| [![PDF Perfect](https://img.shields.io/badge/PDF_Perfect-C5168E?style=flat-square&logo=google-chrome&logoColor=ffffff)](https://pdfperfect.org/) | Privacy-first PDF toolbox — compress, merge, split & edit in browser |
 
 ### 🎯 Production Apps
-[![Ask AI](https://img.shields.io/badge/Ask_AI-AI_Powered_Assistant-42cbf5?style=for-the-badge&logo=openai&logoColor=ffffff)](https://youtu.be/uanEhadiEe4)  
-[![Sprout](https://img.shields.io/badge/Sprout-Growth_Tracking-90f542?style=for-the-badge&logo=plant&logoColor=ffffff)](https://youtu.be/JEPp4qPDKlo)  
-[![Mind Buddy](https://img.shields.io/badge/Mind_Buddy-Mental_Health-89CFF0?style=for-the-badge&logo=heart&logoColor=ffffff)](https://youtu.be/g2aqzrVr8vo)
+| Project | Description |
+|---|---|
+| [![Ask AI](https://img.shields.io/badge/Ask_AI-42cbf5?style=flat-square&logo=openai&logoColor=ffffff)](https://youtu.be/uanEhadiEe4) | AI-Powered Assistant |
+| [![Sprout](https://img.shields.io/badge/Sprout-90f542?style=flat-square&logoColor=ffffff)](https://youtu.be/JEPp4qPDKlo) | Growth Tracking App |
+| [![Mind Buddy](https://img.shields.io/badge/Mind_Buddy-89CFF0?style=flat-square&logoColor=ffffff)](https://youtu.be/g2aqzrVr8vo) | Mental Health Companion |
 
 ### 📱 Communication & Social
-[![Signal Clone](https://img.shields.io/badge/Signal_Clone-Secure_Messaging-4287f5?style=for-the-badge&logo=signal&logoColor=ffffff)](https://youtu.be/VXXKL44V__U)  
-[![Her Amigo](https://img.shields.io/badge/Her_Amigo-Social_Platform-C5168D?style=for-the-badge&logo=heart&logoColor=ffffff)](https://youtu.be/Buyv4U24oVk)
+| Project | Description |
+|---|---|
+| [![Signal Clone](https://img.shields.io/badge/Signal_Clone-4287f5?style=flat-square&logo=signal&logoColor=ffffff)](https://youtu.be/VXXKL44V__U) | End-to-end encrypted messaging |
+| [![Her Amigo](https://img.shields.io/badge/Her_Amigo-C5168D?style=flat-square&logoColor=ffffff)](https://youtu.be/Buyv4U24oVk) | Social Platform for women |
 
 ### 🏥 Healthcare & Wellness
-[![PhysioSite](https://img.shields.io/badge/PhysioSite-Healthcare-DAF7A6?style=for-the-badge&logo=medical-cross&logoColor=ffffff)](https://apps.apple.com/us/app/physiosite/id1663719876)  
-[![JetLag](https://img.shields.io/badge/JetLag-Travel_Wellness-89CFF0?style=for-the-badge&logo=airplane&logoColor=ffffff)](https://drive.google.com/file/d/10gRknrlkNz9IjvFvfwctvEkI8tbPB6-j/view?usp=share_link)
+| Project | Description |
+|---|---|
+| [![PhysioSite](https://img.shields.io/badge/PhysioSite-DAF7A6?style=flat-square&logoColor=333333)](https://apps.apple.com/us/app/physiosite/id1663719876) | Physiotherapy & Healthcare Platform |
+| [![JetLag](https://img.shields.io/badge/JetLag-89CFF0?style=flat-square&logoColor=ffffff)](https://drive.google.com/file/d/10gRknrlkNz9IjvFvfwctvEkI8tbPB6-j/view?usp=share_link) | Travel Wellness App |
 
 ### 🍽️ Restaurant & Hospitality
-[![Dine Screen](https://img.shields.io/badge/Dine_Screen-Restaurant_Management-FFA500?style=for-the-badge&logo=restaurant&logoColor=ffffff)](https://dine-screen.web.app/)  
-[![Dine Screen Menu](https://img.shields.io/badge/Dine_Screen-Menu_System-FFA500?style=for-the-badge&logo=menu&logoColor=ffffff)](https://dine-screen-menu.web.app)  
-[![Dine Screen Reception](https://img.shields.io/badge/Dine_Screen-Reception-FFA500?style=for-the-badge&logo=reception&logoColor=ffffff)](https://dine-screen.web.app/ReceptionMain)  
-[![Dine Screen Kitchen](https://img.shields.io/badge/Dine_Screen-Kitchen-FFA500?style=for-the-badge&logo=chef&logoColor=ffffff)](https://dine-screen.web.app/KitchenLogin)
+| Project | Description |
+|---|---|
+| [![Dine Screen](https://img.shields.io/badge/Dine_Screen-FFA500?style=flat-square&logoColor=ffffff)](https://dine-screen.web.app/) | Full Restaurant Management System |
+| [![Dine Screen Menu](https://img.shields.io/badge/Dine_Screen_Menu-FFA500?style=flat-square&logoColor=ffffff)](https://dine-screen-menu.web.app) | Digital Menu System |
+| [![Dine Screen Reception](https://img.shields.io/badge/Dine_Screen_Reception-FFA500?style=flat-square&logoColor=ffffff)](https://dine-screen.web.app/ReceptionMain) | Reception & Reservations |
+| [![Dine Screen Kitchen](https://img.shields.io/badge/Dine_Screen_Kitchen-FFA500?style=flat-square&logoColor=ffffff)](https://dine-screen.web.app/KitchenLogin) | Kitchen Order Management |
 
 ### 💝 Social Impact
-[![Love Easy Giving](https://img.shields.io/badge/Love_Easy_Giving-Charity_Platform-6B5233?style=for-the-badge&logo=heart&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.github.love_easy_giving)  
-[![Love Easy Giving Individual](https://img.shields.io/badge/Love_Easy_Giving-Individual-6B5233?style=for-the-badge&logo=person&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.github.loveeasygivingindividual)
+| Project | Description |
+|---|---|
+| [![Love Easy Giving](https://img.shields.io/badge/Love_Easy_Giving-6B5233?style=flat-square&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.github.love_easy_giving) | Charity & Donation Platform |
+| [![Love Easy Giving Individual](https://img.shields.io/badge/Love_Easy_Giving_Individual-6B5233?style=flat-square&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.github.loveeasygivingindividual) | Individual Giving App |
 
 ### 🎬 Entertainment & Media
-[![Pakistan Live TV](https://img.shields.io/badge/Pakistan_Live_TV-Streaming_App-00C853?style=for-the-badge&logo=tv&logoColor=ffffff)](https://drive.google.com/file/d/1nmdZipzWHWIb7EXw__NpKBWJYdYk-3uH/view?usp=share_link)  
-[![Engage](https://img.shields.io/badge/Engage-Entertainment_Platform-FFBF00?style=for-the-badge&logo=play&logoColor=ffffff)](https://play.google.com/store/apps/details?)
+| Project | Description |
+|---|---|
+| [![Pakistan Live TV](https://img.shields.io/badge/Pakistan_Live_TV-00C853?style=flat-square&logoColor=ffffff)](https://drive.google.com/file/d/1nmdZipzWHWIb7EXw__NpKBWJYdYk-3uH/view?usp=share_link) | Live TV Streaming App |
+| [![Engage](https://img.shields.io/badge/Engage-FFBF00?style=flat-square&logoColor=ffffff)](https://play.google.com/store/apps/details?) | Entertainment Platform |
 
 </details>
 
@@ -196,25 +246,34 @@ Each package solves real-world problems faced by Flutter developers, with compre
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=60%" />
+
 ### ✍️ *Sharing knowledge through technical writing*
 
 </div>
 
-🤖 **[Use Gemini AI to Enhance Your Flutter App](https://medium.com/@seayeshaiftikhar/use-gemini-ai-to-enhance-your-flutterapp-dc773ff563c7)**  
-*Learn how to integrate Google's Gemini AI to create intelligent, responsive Flutter applications*
-
-💳 **[Integrate Apple & Google Pay via Stripe in Flutter](https://medium.com/@seayeshaiftikhar/integrate-apple-google-pay-via-stripe-flutter-70728748b4db)**  
-*Complete guide to implementing secure payment solutions in your Flutter apps*
-
-📹 **[Video Calls in Flutter using ZegoCloud](https://medium.com/@seayeshaiftikhar/video-calls-in-flutter-using-zegocloud-95dacddd8bb7)**  
-*Build seamless video calling features with real-time communication*
-
-🔗 **[Branch.io for Deep Linking in Flutter](https://medium.com/@seayeshaiftikhar/branch-io-for-deep-linking-in-flutter-2327530f1639)**  
-*Master advanced navigation and user acquisition strategies*
+<table>
+<tr>
+<td width="50px" align="center">🤖</td>
+<td><b><a href="https://medium.com/@seayeshaiftikhar/use-gemini-ai-to-enhance-your-flutterapp-dc773ff563c7">Use Gemini AI to Enhance Your Flutter App</a></b><br/><i>Integrate Google's Gemini AI to create intelligent, responsive Flutter applications</i></td>
+</tr>
+<tr>
+<td align="center">💳</td>
+<td><b><a href="https://medium.com/@seayeshaiftikhar/integrate-apple-google-pay-via-stripe-flutter-70728748b4db">Integrate Apple & Google Pay via Stripe in Flutter</a></b><br/><i>Complete guide to implementing secure payment solutions in your Flutter apps</i></td>
+</tr>
+<tr>
+<td align="center">📹</td>
+<td><b><a href="https://medium.com/@seayeshaiftikhar/video-calls-in-flutter-using-zegocloud-95dacddd8bb7">Video Calls in Flutter using ZegoCloud</a></b><br/><i>Build seamless video calling features with real-time communication</i></td>
+</tr>
+<tr>
+<td align="center">🔗</td>
+<td><b><a href="https://medium.com/@seayeshaiftikhar/branch-io-for-deep-linking-in-flutter-2327530f1639">Branch.io for Deep Linking in Flutter</a></b><br/><i>Master advanced navigation and user acquisition strategies</i></td>
+</tr>
+</table>
 
 <div align="center">
 
-[![Read All Articles](https://img.shields.io/badge/Read_All_Articles-Medium-0077B5?style=for-the-badge&logo=Medium&logoColor=ffffff)](https://seayeshaiftikhar.medium.com/)
+[![Read All Articles](https://img.shields.io/badge/Read_All_Articles_on_Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://seayeshaiftikhar.medium.com/)
 
 </div>
 
@@ -224,10 +283,13 @@ Each package solves real-world problems faced by Flutter developers, with compre
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=60%" />
+
 ### 🤝 *Let's build something amazing together*
 
-**📞 Direct Contact:** [+923137128036](tel:+923137128036)  
-**📲 Community:** [Join my WhatsApp Channel](https://whatsapp.com/channel/0029VaCZPbjGJP8EQY19Xz1v)
+**📞 Direct Contact:** [+923137128036](tel:+923137128036) &nbsp;|&nbsp; **📲 Community:** [Join my WhatsApp Channel](https://whatsapp.com/channel/0029VaCZPbjGJP8EQY19Xz1v)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seayeshaiftikhar/)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCUI0fN6xPUT3SfGLfh8B9Lg)
@@ -243,15 +305,39 @@ Each package solves real-world problems faced by Flutter developers, with compre
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=60%" />
+
 ### 🌟 *Contributing to the developer community*
 
 </div>
 
-🔗 **[ContactUs Package](https://pub.dev/packages/contactus)** - Major contributor to popular Flutter package  
-🚀 **[Flutter AI Implementation](https://github.com/AyeshaIftikhar/flutter_ai)** - AI integration examples and tutorials  
-💻 **[Flutter Code Examples](https://github.com/AyeshaIftikhar/Flutter-Codes)** - Comprehensive Flutter code repository  
-🎯 **[Interview Tasks Solutions](https://github.com/AyeshaIftikhar/Interview-Tasks)** - Real-world Flutter interview challenges  
-📊 **[Data Science Projects](https://github.com/AyeshaIftikhar/ToothGrowthAnalysisofPigs)** - R-based statistical analysis
+<table>
+<tr>
+<td>🔗</td>
+<td><b><a href="https://pub.dev/packages/contactus">ContactUs Package</a></b></td>
+<td>Major contributor to popular Flutter package</td>
+</tr>
+<tr>
+<td>🚀</td>
+<td><b><a href="https://github.com/AyeshaIftikhar/flutter_ai">Flutter AI Implementation</a></b></td>
+<td>AI integration examples and tutorials</td>
+</tr>
+<tr>
+<td>💻</td>
+<td><b><a href="https://github.com/AyeshaIftikhar/Flutter-Codes">Flutter Code Examples</a></b></td>
+<td>Comprehensive Flutter code repository</td>
+</tr>
+<tr>
+<td>🎯</td>
+<td><b><a href="https://github.com/AyeshaIftikhar/Interview-Tasks">Interview Tasks Solutions</a></b></td>
+<td>Real-world Flutter interview challenges</td>
+</tr>
+<tr>
+<td>📊</td>
+<td><b><a href="https://github.com/AyeshaIftikhar/ToothGrowthAnalysisofPigs">Data Science Projects</a></b></td>
+<td>R-based statistical analysis</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -265,8 +351,14 @@ Each package solves real-world problems faced by Flutter developers, with compre
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=60%" />
+
+<br/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayeshaiftikhar&show_icons=true&hide_border=true&count_private=true&theme=radical&icon_color=C5168E" alt="Ayesha's GitHub Stats"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaiftikhar&layout=compact&hide_border=true&theme=radical&title_color=C5168E" alt="Ayesha's Top Languages"/>
+
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshaiftikhar&hide_border=true&theme=radical&stroke=C5168E&ring=C5168E&fire=C5168E" alt="Ayesha's GitHub Streak"/>
 
@@ -282,8 +374,18 @@ Each package solves real-world problems faced by Flutter developers, with compre
 
 <div align="center">
 
-### 🚀 *"Every line of code is a step towards innovation. Let's build the future together!"*
+### 💬 *"Every line of code is a step towards innovation. Let's build the future together!"*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=65&section=footer"/>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seayeshaiftikhar/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCUI0fN6xPUT3SfGLfh8B9Lg)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/aishayyy____)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://seayeshaiftikhar.medium.com/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaCZPbjGJP8EQY19Xz1v)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
