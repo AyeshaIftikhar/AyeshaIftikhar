@@ -82,6 +82,34 @@
 
 ---
 
+## 🔧 Most Recent Project: PDF Perfect
+
+<div align="center">
+
+### 📄 *"Compress, Merge, Split & Edit PDFs — Instantly in Your Browser"*
+
+**A lightweight, privacy-first PDF toolbox with zero uploads and no account required**
+
+</div>
+
+PDF Perfect is a lightweight, privacy-first PDF toolbox that helps you compress, merge, split, and edit PDF documents instantly — all in your browser. No uploads, no accounts, and no limits.
+
+**Key Features:**
+- 🗜️ **Compress PDF:** Reduce file size while preserving quality. Ideal for emailing large documents and saving storage.
+- 📎 **Merge PDFs:** Combine multiple files into a single document with drag-and-drop reorder support.
+- ✂️ **Split PDFs:** Extract pages or split large files into smaller, shareable documents.
+- ✏️ **Edit PDFs:** Add text, draw shapes, rotate or remove pages without installing software.
+- 🔒 **Local Processing:** All operations run in the browser — your files never leave your device.
+- 📁 **Large File Support:** Process files up to 1GB depending on device capability.
+
+<div align="center">
+
+[![PDF Perfect](https://img.shields.io/badge/Visit-PDF_Perfect-C5168E?logo=google-chrome&logoColor=ffffff&style=for-the-badge)](https://pdfperfect.org/)
+
+</div>
+
+---
+
 ## 🌟 Featured Project: Debug Your Mind
 
 <div align="center">
@@ -129,6 +157,9 @@ Each package solves real-world problems faced by Flutter developers, with compre
 
 <details>
 <summary><b>🔥 Click to explore my project ecosystem</b></summary>
+
+### 🔧 Web Tools
+[![PDF Perfect](https://img.shields.io/badge/PDF_Perfect-Privacy--First_PDF_Toolbox-C5168E?style=for-the-badge&logo=google-chrome&logoColor=ffffff)](https://pdfperfect.org/)
 
 ### 🎯 Production Apps
 [![Ask AI](https://img.shields.io/badge/Ask_AI-AI_Powered_Assistant-42cbf5?style=for-the-badge&logo=openai&logoColor=ffffff)](https://youtu.be/uanEhadiEe4)  
