@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayesha%20Iftikhar&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Senior%20Flutter%20Developer%20%7C%20Women%20Techmakers%20Ambassador&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayesha%20Iftikhar&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Senior%20Mobile%20%26%20Software%20Engineer%20%7C%20Women%20Techmakers%20Ambassador&descAlignY=55&descSize=16" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=C5168E&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Expert+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%93%A6;Tech+Community+Leader+%F0%9F%8C%8D;Mobile+App+Innovator+%F0%9F%93%B1;Women+Techmakers+Ambassador+%F0%9F%8F%86;Building+the+Future%2C+One+App+at+a+Time+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=C5168E&center=true&vCenter=true&width=650&lines=Flutter+%26+Dart+Expert+%F0%9F%9A%80;Senior+Mobile+%26+Software+Engineer+%F0%9F%93%B1;AI+Driven+Product+Development+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%93%A6;Tech+Community+Leader+%F0%9F%8C%8D;Women+Techmakers+Ambassador+%F0%9F%8F%86;Building+the+Future%2C+One+App+at+a+Time+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=ayeshaiftikhar&label=Profile%20views&color=C5168E&style=for-the-badge)](https://g.dev/ayeshaiftikhar) [![Google Developer](https://img.shields.io/badge/Google_Developer-Profile-C5168E?logo=google&logoColor=ffffff&style=for-the-badge)](https://g.dev/ayeshaiftikhar) [![Women Techmakers](https://img.shields.io/badge/Women_Techmakers-Ambassador-C5168E?logo=google&logoColor=ffffff&style=for-the-badge)]()
 
-[![GitKraken Ambassador](https://img.shields.io/badge/GitKraken-Ambassador-179287?logo=gitkraken&logoColor=ffffff&style=for-the-badge)]() [![Expert Flutter Developer](https://img.shields.io/badge/Expert_Flutter_Developer-2ByteCode-02569B?logo=flutter&logoColor=ffffff&style=for-the-badge)](https://drive.google.com/file/d/10jJWiDmXsw9JlDvAsjff_aJ_6DWwZSfx/view)
+[![GitKraken Ambassador](https://img.shields.io/badge/GitKraken-Ambassador-179287?logo=gitkraken&logoColor=ffffff&style=for-the-badge)](https://gitkraken.cello.so/fa5LSY8Y9b6) [![Expert Flutter Developer](https://img.shields.io/badge/Expert_Flutter_Developer-2ByteCode-02569B?logo=flutter&logoColor=ffffff&style=for-the-badge)](https://drive.google.com/file/d/10jJWiDmXsw9JlDvAsjff_aJ_6DWwZSfx/view)
 
 </div>
 
@@ -34,7 +34,7 @@
 | Category | Details |
 |---|---|
 | 🎓 **Education** | BS Software Engineering — COMSATS University Islamabad |
-| 🌐 **Current Role** | Senior Flutter Developer at **PureMatrix Data Solutions** |
+| 🌐 **Current Role** | Senior Mobile & Software Engineer at **PureMatrix Data Solutions** |
 | 🏆 **Achievements** | Published 5+ pub.dev packages, Women Techmakers Ambassador |
 | 📱 **Expertise** | Cross-Platform Mobile, Flutter, Dart, Firebase |
 | 🧠 **Learning** | Machine Learning, Neural Networks, Graphics Design |
@@ -51,9 +51,12 @@
 <td>✍️ <b>Content Creation</b><br/>Write technical articles & tutorials</td>
 </tr>
 <tr>
+<td>🤖 <b>AI-Driven Products</b><br/>Build intelligent apps with ML & AI</td>
 <td>🎤 <b>Speaking</b><br/>Present at tech conferences & communities</td>
 <td>🤝 <b>Mentoring</b><br/>Guide aspiring developers in their journey</td>
-<td>🌍 <b>Community</b><br/>Lead tech initiatives & ambassador programs</td>
+</tr>
+<tr>
+<td colspan="3">🌍 <b>Community Leadership</b>&nbsp;&nbsp;Lead tech initiatives & ambassador programs</td>
 </tr>
 </table>
 
@@ -97,6 +100,12 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🤖 AI & Machine Learning
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -313,35 +322,65 @@
 
 <table>
 <tr>
-<td>🔗</td>
-<td><b><a href="https://pub.dev/packages/contactus">ContactUs Package</a></b></td>
-<td>Major contributor to popular Flutter package</td>
+<td>📸</td>
+<td><b><a href="https://github.com/AyeshaIftikhar/insta_login">Insta Login</a></b> ⭐ 6</td>
+<td>Connect Instagram profiles to Flutter apps via Display API</td>
 </tr>
 <tr>
-<td>🚀</td>
+<td>📅</td>
+<td><b><a href="https://github.com/AyeshaIftikhar/calendar_cc">Calendar CC</a></b> ⭐ 4</td>
+<td>Slide-up/down weekly/monthly Flutter calendar widget</td>
+</tr>
+<tr>
+<td>🔐</td>
+<td><b><a href="https://github.com/AyeshaIftikhar/xor_cipher">XOR Cipher</a></b> ⭐ 2</td>
+<td>XOR-based additive cipher for Dart & Flutter</td>
+</tr>
+<tr>
+<td>🔗</td>
+<td><b><a href="https://pub.dev/packages/contactus">ContactUs Package</a></b></td>
+<td>Major contributor to popular Flutter pub.dev package</td>
+</tr>
+<tr>
+<td>🤖</td>
 <td><b><a href="https://github.com/AyeshaIftikhar/flutter_ai">Flutter AI Implementation</a></b></td>
-<td>AI integration examples and tutorials</td>
+<td>Exploring Gemini, OpenAI & other AI models in Flutter apps</td>
 </tr>
 <tr>
 <td>💻</td>
 <td><b><a href="https://github.com/AyeshaIftikhar/Flutter-Codes">Flutter Code Examples</a></b></td>
-<td>Comprehensive Flutter code repository</td>
+<td>Reusable Flutter modules — Firebase auth, storage, maps & more</td>
+</tr>
+<tr>
+<td>🎵</td>
+<td><b><a href="https://github.com/AyeshaIftikhar/MusicApp">Music App</a></b></td>
+<td>Flutter music app integrating the Last.fm API</td>
+</tr>
+<tr>
+<td>🌐</td>
+<td><b><a href="https://github.com/AyeshaIftikhar/DarkRoseEvents">Dark Rose Events Website</a></b></td>
+<td>HTML/CSS event management & planning website</td>
+</tr>
+<tr>
+<td>🟢</td>
+<td><b><a href="https://github.com/AyeshaIftikhar/100-Days-of-Nodejs">100 Days of Node.js</a></b></td>
+<td>100-project challenge mastering backend development with Node.js</td>
 </tr>
 <tr>
 <td>🎯</td>
 <td><b><a href="https://github.com/AyeshaIftikhar/Interview-Tasks">Interview Tasks Solutions</a></b></td>
-<td>Real-world Flutter interview challenges</td>
+<td>Real-world Flutter interview challenges with APKs & demo recordings</td>
 </tr>
 <tr>
 <td>📊</td>
 <td><b><a href="https://github.com/AyeshaIftikhar/ToothGrowthAnalysisofPigs">Data Science Projects</a></b></td>
-<td>R-based statistical analysis</td>
+<td>R-based exploratory data analysis & statistical inference</td>
 </tr>
 </table>
 
 <div align="center">
 
-[![AI Implementation](https://img.shields.io/badge/AI_Implementation-Flutter-0175C2?style=for-the-badge&logo=Flutter&logoColor=ffffff)](https://github.com/AyeshaIftikhar/flutter_ai) [![Flutter Codes](https://img.shields.io/badge/Flutter_Codes-Repository-0175C2?style=for-the-badge&logo=Flutter&logoColor=ffffff)](https://github.com/AyeshaIftikhar/Flutter-Codes) [![Interview Tasks](https://img.shields.io/badge/Interview_Tasks-Solutions-0175C2?style=for-the-badge&logo=Flutter&logoColor=ffffff)](https://github.com/AyeshaIftikhar/Interview-Tasks)
+[![Insta Login](https://img.shields.io/badge/Insta_Login-GitHub-100000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/AyeshaIftikhar/insta_login) [![Flutter AI](https://img.shields.io/badge/Flutter_AI-GitHub-100000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/AyeshaIftikhar/flutter_ai) [![Flutter Codes](https://img.shields.io/badge/Flutter_Codes-GitHub-100000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/AyeshaIftikhar/Flutter-Codes)
 
 </div>
 
