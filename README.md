@@ -45,7 +45,7 @@ Flutter is my primary stack. My work also spans native iOS and Android, web appl
 | Project | Focus |
 | --- | --- |
 | **[Layag](https://layagapp.com/)** | An AI travel companion for itineraries, destination information, and proactive travel guidance. |
-| **ClassPing** | An AI travel companion for itineraries, destination information, and proactive travel guidance. |
+| **ClassPing** | A mobile-first Flutter app for the UMT School of Systems and Technology Fall 2026 MS/PhD timetable. Students choose the class sections they attend, see upcoming dates, and schedule local reminders on their phone. |
 | **Velunori** | A calm bedtime universe featuring Nori the Dream Dragon, with lullabies, bedtime stories, and a companion app in development. |
 
 
