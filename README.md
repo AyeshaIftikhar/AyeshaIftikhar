@@ -12,6 +12,7 @@ Building thoughtful products, from the first idea to production.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seayeshaiftikhar/)
 [![Contra](https://img.shields.io/badge/Contra-Work_with_me-B18A45?style=for-the-badge)](https://contra.com/s/EWEYvWkL-turn-your-vibe-coded-app-into-a-production-ready-product?r=seayeshaiftikhar)
 [![pub.dev](https://img.shields.io/badge/pub.dev-My_packages-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/publishers/aishayy.com/packages)
+[![Open Source](https://img.shields.io/badge/Open_Source-Explore_projects-24292F?style=for-the-badge&logo=github&logoColor=white)](https://aishayy.com/open-source)
 
 </div>
 
@@ -23,8 +24,9 @@ Flutter is my primary stack. My work also spans native iOS and Android, web appl
 
 - **Mobile:** Flutter, Dart, native platform integrations, offline-first data, and real-time experiences.
 - **Web & backend:** React, Next.js, Node.js, Laravel, Firebase, and Supabase.
-- **AI products:** Integrating language models into practical product workflows.
+- **AI products:** Integrating language models into practical product workflows and building reusable AI agent skills.
 - **Production readiness:** Auditing, improving, and publishing existing apps, including AI-generated codebases.
+- **Open source:** Maintaining Flutter packages, developer CLI tools, and AI agent skills that solve real shipping problems.
 - **Community:** Women Techmakers Ambassador, GitKraken Ambassador, technical writing, and open-source packages.
 
 **Open to remote Senior/Lead mobile engineering roles and product development collaborations.**
@@ -33,6 +35,7 @@ Flutter is my primary stack. My work also spans native iOS and Android, web appl
 
 | Product | Description | Links |
 | --- | --- | --- |
+| **NFC Wizard** | NFC Wizard is a free NFC tag reader and writer for iPhone and Android. Hold your phone near a tag to see its type, capacity, and records, or write links, Wi-Fi logins, contacts, and more. | [Website](https://nfc-wizard.web.app/) · [iOS](https://apps.apple.com/us/app/nfc-wizard-tag-reader-writer/id6808240647) · [Android - Coming Soon]() |
 | **Mindleau** | A brain dump journal with guided stillness, mood tracking, and personal insights. Built with Flutter and an offline-first data layer. | [Website](https://mindleau.web.app/) · [iOS](https://apps.apple.com/us/app/mindleau-brain-dump-journal/id6806175255) · [Android](https://play.google.com/store/apps/details?id=com.mindleau.app) |
 | **PDF Perfect** | Browser-based PDF tools for compressing, merging, splitting, and editing documents, with local file processing. | [Website](https://pdfperfect.org/) |
 | **Tarka Tales** | A Pakistani food publication with recipes and cooking tools, including rice and biryani calculators. | [Website](https://tarkatales.com/) |
@@ -42,7 +45,9 @@ Flutter is my primary stack. My work also spans native iOS and Android, web appl
 | Project | Focus |
 | --- | --- |
 | **[Layag](https://layagapp.com/)** | An AI travel companion for itineraries, destination information, and proactive travel guidance. |
+| **ClassPing** | An AI travel companion for itineraries, destination information, and proactive travel guidance. |
 | **Velunori** | A calm bedtime universe featuring Nori the Dream Dragon, with lullabies, bedtime stories, and a companion app in development. |
+
 
 ## Engineering toolkit
 
@@ -57,17 +62,47 @@ Flutter is my primary stack. My work also spans native iOS and Android, web appl
 | **AI integrations** | OpenAI, Gemini, Claude, Google ML Kit |
 | **Delivery & quality** | Git, GitHub Actions, Docker, Vitest, Firebase Crashlytics |
 
-## Open-source packages
+## Open-source contributions
 
-| Package | Purpose |
-| --- | --- |
-| [flutter_asset_cleaner](https://pub.dev/packages/flutter_asset_cleaner) | Find and clean up unused assets in Flutter projects. |
-| [xor_encryption](https://pub.dev/packages/xor_encryption) | Lightweight XOR utilities for Dart and Flutter. |
-| [calendar_cc](https://pub.dev/packages/calendar_cc) | A customizable calendar widget for Flutter. |
-| [as_instapicker](https://pub.dev/packages/as_instapicker) | An Instagram-style image picker. |
-| [instacrop](https://pub.dev/packages/instacrop) | An Instagram-style image cropping widget. |
+I build and maintain open-source tools for Flutter, Dart, Node.js, and AI-assisted app development. These projects address practical problems I've encountered while building, debugging, and publishing software.
 
-[Explore my packages on pub.dev →](https://pub.dev/publishers/aishayy.com/packages)
+**8 projects · 2 AI agent skills · 4 ecosystems**
+
+### AI agent skills
+
+Reusable skills for coding agents including Claude Code, Codex, and Cursor.
+
+| Skill | What it does | Source |
+| --- | --- | --- |
+| **[App Store & Play Store Rejection Assistant](https://github.com/AyeshaIftikhar/app-store-play-store-rejection-assistant)** | Analyzes Apple App Store and Google Play rejection notices, identifies policy issues and likely root causes, builds fix checklists, and drafts reviewer responses and resubmission plans. | [GitHub](https://github.com/AyeshaIftikhar/app-store-play-store-rejection-assistant) |
+| **[App Landing & Legal Pages Generator](https://github.com/AyeshaIftikhar/app-landing-legal-pages-generator)** | Creates landing-page content, privacy policy and terms templates, support-page content, SEO metadata, screenshot plans, and implementation prompts from a short app brief. | [GitHub](https://github.com/AyeshaIftikhar/app-landing-legal-pages-generator) |
+
+Install with the Skills CLI:
+
+```bash
+npx skills add AyeshaIftikhar/app-store-play-store-rejection-assistant
+npx skills add AyeshaIftikhar/app-landing-legal-pages-generator
+```
+
+### Flutter & Dart packages
+
+| Package | Purpose | Install |
+| --- | --- | --- |
+| **[flutter_asset_cleaner](https://pub.dev/packages/flutter_asset_cleaner)** | Dart CLI that identifies unused Flutter assets, with dry-run mode and interactive cleanup. | `dart pub global activate flutter_asset_cleaner` |
+| **[xor_encryption](https://pub.dev/packages/xor_encryption)** | Lightweight XOR cipher utilities for encrypting and decrypting strings in Flutter. Not intended for security-sensitive cryptography. | `flutter pub add xor_encryption` |
+| **[calendar_cc](https://pub.dev/packages/calendar_cc)** | Customizable Flutter calendar with weekly/monthly views, event support, blocked dates, and theming. | `flutter pub add calendar_cc` |
+| **[as_instapicker](https://pub.dev/packages/as_instapicker)** | Instagram-inspired media picker supporting multi-selection, cropping, and aspect-ratio customization. | `flutter pub add as_instapicker` |
+| **[instacrop](https://pub.dev/packages/instacrop)** | Instagram-style image cropping interface for Flutter, originally developed for as_instapicker. | `flutter pub add instacrop` |
+
+### Node.js developer tools
+
+| Tool | Purpose | Install |
+| --- | --- | --- |
+| **[node-api-genie](https://www.npmjs.com/package/node-api-genie)** | CLI for scaffolding an Express and MongoDB REST API with JWT authentication and security-focused defaults. | `npm install -g node-api-genie` |
+
+**[Explore all my open-source projects →](https://aishayy.com/open-source)** · [Flutter/Dart packages on pub.dev](https://pub.dev/publishers/aishayy.com/packages) · [GitHub profile](https://github.com/AyeshaIftikhar)
+
+Issues, feature requests, and pull requests are welcome on the respective repositories.
 
 ### Repositories to explore
 
