@@ -195,7 +195,7 @@ Issues, feature requests, and pull requests are welcome on the respective reposi
 - [GitKraken Ambassador](https://gitkraken.cello.so/fa5LSY8Y9b6)
 - [Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/75fcda1b-b147-4281-8bdb-64f961c35da8)
 - [Expert Flutter Developer certificate](https://drive.google.com/file/d/10jJWiDmXsw9JlDvAsjff_aJ_6DWwZSfx/view)
-- [WhatsApp community channel](https://whatsapp.com/channel/0029VaCZPbjGJP8EQY19Xz1v)
+<!-- - [WhatsApp community channel](https://whatsapp.com/channel/0029VaCZPbjGJP8EQY19Xz1v) -->
 
 ## Let's work together
 
