@@ -35,6 +35,7 @@ Flutter is my primary stack. My work also spans native iOS and Android, web appl
 
 | Product | Description | Links |
 | --- | --- | --- |
+| **ClassPing** | A mobile-first Flutter app for the UMT School of Systems and Technology Fall 2026 MS/PhD timetable. Students choose the class sections they attend, see upcoming dates, and schedule local reminders on their phone. | [Website](https://aishayy.com/umt?utm_source=github) · [iOS](https://apps.apple.com/us/app/classping-class-timetable/id6824447456) · [Android - Coming Soon]() |
 | **NFC Wizard** | NFC Wizard is a free NFC tag reader and writer for iPhone and Android. Hold your phone near a tag to see its type, capacity, and records, or write links, Wi-Fi logins, contacts, and more. | [Website](https://nfc-wizard.web.app/) · [iOS](https://apps.apple.com/us/app/nfc-wizard-tag-reader-writer/id6808240647) · [Android - Coming Soon]() |
 | **Mindleau** | A brain dump journal with guided stillness, mood tracking, and personal insights. Built with Flutter and an offline-first data layer. | [Website](https://mindleau.web.app/) · [iOS](https://apps.apple.com/us/app/mindleau-brain-dump-journal/id6806175255) · [Android](https://play.google.com/store/apps/details?id=com.mindleau.app) |
 | **PDF Perfect** | Browser-based PDF tools for compressing, merging, splitting, and editing documents, with local file processing. | [Website](https://pdfperfect.org/) |
@@ -45,7 +46,6 @@ Flutter is my primary stack. My work also spans native iOS and Android, web appl
 | Project | Focus |
 | --- | --- |
 | **[Layag](https://layagapp.com/)** | An AI travel companion for itineraries, destination information, and proactive travel guidance. |
-| **ClassPing** | A mobile-first Flutter app for the UMT School of Systems and Technology Fall 2026 MS/PhD timetable. Students choose the class sections they attend, see upcoming dates, and schedule local reminders on their phone. |
 | **Velunori** | A calm bedtime universe featuring Nori the Dream Dragon, with lullabies, bedtime stories, and a companion app in development. |
 
 
